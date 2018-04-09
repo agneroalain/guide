@@ -1,0 +1,8 @@
+{
+  "name": "TheGuide_io-ang",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
